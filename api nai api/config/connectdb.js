@@ -1,7 +1,5 @@
-const express = require('express');
 const sql = require('mssql');
 
-const app = express();
 
 const config = {
     user: 'admin1',
